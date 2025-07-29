@@ -66,6 +66,10 @@ ul {
   list-style: disc;
 }
 
+.weetjes h2 {
+  text-align: center;
+}
+
 .right {
   background-color: #ffffff;
   border-radius: 8px;
